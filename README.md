@@ -19,5 +19,7 @@ Your support means a lot.
    ```bash
    node chat.js &
    ```
-3) add entry into hosts (/etc/hosts or  c:\Windows\System32\Drivers\etc\hosts) file
-127.0.0.1 playground.com
+3) add entry into hosts file (/etc/hosts or c:\Windows\System32\Drivers\etc\hosts)
+   ```bash
+  127.0.0.1 playground.com
+   ```
