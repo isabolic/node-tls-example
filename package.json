@@ -1,0 +1,15 @@
+{
+  "name": "node-tls-example",
+  "version": "1.0.0",
+  "description": "node.js tls client server example",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabolic/node-tls-example.git"
+  },
+  "author": "isabolic (sabolic.ivan@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isabolic/node-tls-example/issues"
+  },
+  "homepage": "https://github.com/isabolic/node-tls-example#readme"
+}
