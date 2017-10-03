@@ -1,16 +1,14 @@
-# Nnode.js tls client server authentication example
+# node.js tls client server authentication example
 
 
 Your support means a lot.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/isabolic99)
 
-## Install build version
 ### pre requirements
-
 - [node.js](https://nodejs.org)
 
-
+## Install
 1) inside terminal navigate into project directory and run
    ```bash
    npm install
@@ -20,6 +18,8 @@ Your support means a lot.
    node chat.js &
    ```
 3) add entry into hosts file (/etc/hosts or c:\Windows\System32\Drivers\etc\hosts)
-   ```bash
+
+  ...
   127.0.0.1 playground.com
-   ```
+  ...
+
